@@ -1,5 +1,7 @@
 # odin-recipes
 
+SITE LINK: https://xsupremeyx.github.io/odin-recipes/
+
 This is my First Odin Project!
 
 The Project is on Recipes!
